@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Currently working on improving the visuals of the UI by adding a gradient background but having an issue where the background is infront of all of the other UI objects.
 
 ## License
 
